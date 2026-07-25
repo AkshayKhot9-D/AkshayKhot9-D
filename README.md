@@ -1,12 +1,31 @@
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkshayKhot9-D&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AkshayKhot9-D&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayKhot9-D&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# <div align="center"> 👋 Hi, I'm Akshay S. Khot </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Platform+Support+Engineer;Application+%26+Production+Support+Specialist;ITIL+Incident+Management;Cloud+%26+DevOps+Practitioner" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/akshay-k-5b1261288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:akshaykhot828@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/AkshayKhot9-D"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkshayKhot9-D&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Professional Summary
+
+```yaml
+name: Akshay S. Khot
+current_role: Associate Platform Support Engineer @ Ascendion
+client: DICK'S Sporting Goods (US eCommerce — DSG, Golf Galaxy, Public Lands)
+experience: 3+ Years in 24x7 Production & Live-Site Operations
+award: 🏆 Ascendion Champion Award Winner for Operational Excellence
+focus_areas:
+  - Application & Production Support (99%+ SLA Compliance)
+  - ITIL Major Incident Management (P1/P2 Bridge Leadership)
+  - Observability & Monitoring (Grafana, Prometheus, ELK, Instana)
+  - Middleware & Batch Processing (Control-M, Microsoft BizTalk)
+  - Cloud Computing & DevOps Automation (AWS, Azure, Jenkins, Kubernetes)
+philosophy: "Ensure zero-downtime, maintain high SLA compliance, and automate live-site operations."
